@@ -37,11 +37,11 @@ SpookyPod was engineered to bridge this gap:
 
 ### Assembled Hardware
 
-| Handheld Front View | Side Profile & Jog Switch |
+| Handheld Front View (Witch Theme) | Angled Profile (Custom Demon Horns & Jog Switch) |
 | :---: | :---: |
-| <img src="assets/hardware_front.jpg" width="300" alt="SpookyPod Front View" /> | <img src="assets/hardware_side.jpg" width="300" alt="SpookyPod Side Profile" /> |
+| <img src="assets/hardware_front.jpg" width="300" alt="SpookyPod Handheld Front View" /> | <img src="assets/hardware_side.jpg" width="300" alt="SpookyPod Angled Profile" /> |
 
-The 3D-printed enclosure features a side cutout for the 3-way navigation jog dial and top cutouts for the 3.5mm stereo output and USB-C port.
+The 3D-printed enclosure features custom snap-fit monster/demon horns for a distinctive Halloween prop look, a side cutout for the 3-way navigation jog dial, bottom USB-C port, and top audio jack output.
 
 ### Halloween UI & Pixel-Art Screensavers
 

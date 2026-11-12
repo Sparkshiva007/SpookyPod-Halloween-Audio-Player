@@ -10,5 +10,6 @@
 | **Navigation Input** | 3-Way Jog Switch / Rotary Navigation Dial (Up, Center-Press, Down) | 5-Pin SMD / Thru-Hole Jog Dial | 1 | Side-mounted for track, SFX, and volume navigation |
 | **Play/Trigger Input** | Tactile Pushbutton (6x6mm momentary switch) | SPST Tactile Switch | 1 | Center Play / Pause / Power / Trigger button |
 | **Power Supply** | 3.7V Rechargeable Lithium Polymer Battery (LiPo) | 500mAh - 1200mAh LiPo Cell | 1 | JST-PH 2.0mm connector to MAX32655FTHR |
-| **Enclosure** | Handheld / Prop Housing | 3D Printed Enclosure | 1 | Compact form factor fits inside costumes or props |
+| **Enclosure** | Handheld Prop Housing with Demon Horns | 3D Printed Case (PLA Teal & White) | 1 | Custom 3D printed case with snap-fit demon horns |
 | **Audio Output** | 3.5mm Stereo Audio Jack Socket | PJ-320A / PJ-392 | 1 | Stereo output from MAX9867 to headphones or powered portable speaker |
+
