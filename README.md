@@ -81,9 +81,9 @@ A pre-compiled binary is provided so anyone can flash the firmware without havin
    ```
 3. The flasher automatically locates OpenOCD, connects via CMSIS-DAP, uploads the fast SRAM programming engine, programs the entire 347 KB firmware in approximately 12 seconds, and boots into the SpookyPod Halloween splash screen.
 
-The ready-to-flash binaries are located in the repository under:
-- `bin/max32655.bin` (Main firmware binary)
-- `bin/scratch_flasher.bin` (Fast SRAM flash loader)
+The ready-to-flash binaries are available for direct download:
+- [`max32655.bin`](https://github.com/Sparkshiva007/SpookyPod-Halloween-Audio-Player/releases/download/v1.0.0/max32655.bin) (Main firmware binary)
+- [`scratch_flasher.bin`](https://github.com/Sparkshiva007/SpookyPod-Halloween-Audio-Player/releases/download/v1.0.0/scratch_flasher.bin) (Fast SRAM flash loader)
 
 ---
 
@@ -118,7 +118,7 @@ openocd -f interface/cmsis-dap.cfg -f target/max32655.cfg -c "init; reset halt; 
 
 ## Managing Sound Effects & Music (Spooky Music Manager)
 
-To load screams, ghost whispers, spooky soundtracks, or ambient audio onto the player, a custom desktop application is provided: `tools/spooky_manager.py`. A standalone Windows `.exe` (`Spooky_Music_Manager.exe`) is available in the [Releases](https://github.com/Sparkshiva007/SpookyPod-Halloween-Audio-Player/releases) tab.
+To load screams, ghost whispers, spooky soundtracks, or ambient audio onto the player, a custom desktop application is provided: `tools/spooky_manager.py`. A pre-built standalone Windows executable is available for direct download: [`Spooky_Music_Manager.exe`](https://github.com/Sparkshiva007/SpookyPod-Halloween-Audio-Player/releases/download/v1.0.0/Spooky_Music_Manager.exe) (or in the [v1.0.0 Release](https://github.com/Sparkshiva007/SpookyPod-Halloween-Audio-Player/releases/tag/v1.0.0)).
 
 The companion tool supports two modes:
 
