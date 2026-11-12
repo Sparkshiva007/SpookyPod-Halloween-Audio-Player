@@ -1,0 +1,38 @@
+# Object files and compiler intermediate artifacts
+*.o
+*.d
+*.obj
+*.elf
+*.map
+firmware/build/
+build/
+.cache/
+
+# Flash temporary chunks
+cur_chunk.bin
+_flash_chunk.bin
+
+# Standalone binary executables (available in GitHub Releases)
+bin/*.exe
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+*.spec.bak
+dist/
+build_pyinstaller/
+
+# VS Code and editor configs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
